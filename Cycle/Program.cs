@@ -93,7 +93,7 @@ class Program
         Console.Write("8. Введiть перше число: ");
         int num1 = Convert.ToInt32(Console.ReadLine());
 
-        Console.Write("Введiть друге число: ");
+        Console.Write("Введiть друге число:");
         int num2 = Convert.ToInt32(Console.ReadLine());
 
         int gcd = 1;
